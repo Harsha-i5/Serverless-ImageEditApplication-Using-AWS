@@ -1,0 +1,2 @@
+access-control-allow-headers, access-control-allow-origin, Content-Type, Authorization
+
