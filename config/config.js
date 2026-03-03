@@ -24,7 +24,7 @@ window._workshopConfig = {
     region: 'ap-south-2' // e.g. us-west-2
   },
   api: {
-    invokeUrl: 'https://g6idpgnw6h.execute-api.ap-south-2.amazonaws.com/dev' // e.g. https://abc123def.execute-api.us-west-2.amazonaws.com/prod
+    invokeUrl: 'https://29zyv7nc0b.execute-api.us-east-1.amazonaws.com/dev' // New API Gateway in us-east-1
   }
 };
 
